@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body h1{
+    color: red;
+    text-align: center;
+}
